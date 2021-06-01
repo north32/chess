@@ -1,0 +1,6 @@
+[submodule "spring-chess"]
+	path = spring-chess
+	url = https://github.com/north32/spring-chess.git
+[submodule "console-chess"]
+	path = console-chess
+	url = https://github.com/north32/console-chess.git
